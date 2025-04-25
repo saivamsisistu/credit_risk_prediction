@@ -17,6 +17,16 @@ Financial institutions face challenges in evaluating loan applicants’ creditwo
 - Develop an interactive web interface for user input and live predictions.
 
 ---
+## steps :
+- data understanding
+- target variable creation
+- EDA
+- model selection
+- saving model
+- user input processing
+- web interface
+---
+
 
 ## 📊 Dataset
 
